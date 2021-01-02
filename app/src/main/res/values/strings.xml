@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginAndRegisterSQLite</string>
+    <!--les références de l'activity_main +activity_login!-->
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="confirm_pass">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+</resources>
